@@ -1,5 +1,9 @@
 # Kids Math Adventure – Privacy Policy
 
+📄 **Other languages / Otros idiomas**
+
+- [Español](PRIVACY_ES.md)
+
 **Last updated:** December 22, 2025
 
 ## 1. General information
