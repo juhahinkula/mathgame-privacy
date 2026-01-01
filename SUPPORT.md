@@ -1,5 +1,9 @@
 # Kids Math Adventure — Support
 
+📄 **Other languages / Otros idiomas**
+
+- [Español](SUPPORT_ES.md)
+ 
 If you need help with Math Adventure (publishing, store review, bugs, or general support), use the contact options below.
 
 Contact
